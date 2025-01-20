@@ -59,19 +59,13 @@ Los usuarios también pueden guardar libros y autores en una base de datos local
 
 #### Opción 1: Buscar libro por título
 
-- Ingrese el título del libro a buscar, como "Moby Dick".
+- Ingrese el título del libro a buscar, como "Dracula".
 - La aplicación buscará el libro y devolverá la información relevante.
 - Después de mostrar la información, preguntará si desea guardar el libro en la base de datos. Ingrese 1 para guardar o 0 para no guardar.
 
-#### ![Captura de pantalla 1](img/aranque.png)
+#### ![Captura de pantalla 1](img/arranque.png)
 
 #### ![Captura de pantalla 2](img/busquedaXtitulo.png)
-
-#### Opción 1: Buscar libro por título
-
-- Ingrese el título del libro a buscar, como "Moby Dick".
-- La aplicación buscará el libro y devolverá la información relevante.
-- Después de mostrar la información, preguntará si desea guardar el libro en la base de datos. Ingrese 1 para guardar o 0 para no guardar.
 
 ## Requisitos
 
